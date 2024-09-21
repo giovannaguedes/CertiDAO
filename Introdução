@@ -1,0 +1,30 @@
+Projeto DAO: Certificação Escolar/Universitária com NFTs em Web3
+
+Nome do Projeto: CertiDAO
+
+Introdução
+A CertiDAO é uma Organização Autônoma Descentralizada (DAO) focada em transformar certificados escolares e acadêmicos em NFTs,
+utilizando a tecnologia blockchain para criar, armazenar e verificar certificados de forma descentralizada, segura e imutável.
+Com base nos padrões da Web3, a CertiDAO visa revolucionar o setor educacional, oferecendo uma solução transparente, rastreável 
+e acessível para a certificação de habilidades, diplomas e conquistas acadêmicas.
+
+Objetivo
+O principal objetivo da CertiDAO é substituir o sistema tradicional de emissão de certificados físicos ou digitais centralizados 
+por uma abordagem descentralizada baseada em NFTs (tokens não fungíveis), trazendo mais segurança, autenticidade e acessibilidade 
+aos registros educacionais. Ao criar NFTs para cada certificado, a plataforma permitirá que estudantes, escolas, universidades e 
+instituições educacionais possam emitir e verificar esses documentos de maneira fácil e eficiente.
+
+Justificativa
+Atualmente, os processos de emissão e verificação de certificados educacionais enfrentam diversos desafios:
+
+ - Fraude e falsificação: Certificados podem ser facilmente adulterados ou falsificados.
+     Matéria: https://g1.globo.com/sp/campinas-regiao/noticia/2016/02/mulher-e-presa-por-estelionato-e-falsificacao-em-valinhos-sp.html 
+ - Verificação demorada: O processo de verificação de credenciais acadêmicas pode ser lento e burocrático.
+     Matéria: https://www.gov.br/pt-br/servicos/reconhecer-ou-revalidar-diploma-de-curso-superior-obtido-no-exterior#:~:text=Informa%C3%A7%C3%B5es%20adicionais%20ao%20tempo%20estimado,processo%20ou%20registro%20eletr%C3%B4nico%20equivalente.
+ - Dificuldade de acesso: Certificados físicos podem ser perdidos, e a recuperação de diplomas pode ser complexa.
+     Matéria: https://cbn.globoradio.globo.com/media/audio/342081/faculdades-de-sp-sao-investigadas-por-deixar-dezen.htm
+ - Centralização: O controle sobre esses documentos fica muitas vezes centralizado em instituições, o que dificulta a portabilidade
+   dos certificados ao longo da vida do estudante.
+
+Com o uso da tecnologia Web3 e NFTs, a CertiDAO visa resolver esses problemas, oferecendo uma infraestrutura descentralizada e 
+automatizada para a emissão e verificação de certificados.
