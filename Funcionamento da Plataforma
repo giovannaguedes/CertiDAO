@@ -1,0 +1,53 @@
+01.Funcionamento
+
+  Instituições Parceiras:
+  Universidades, escolas e outras instituições educacionais se cadastram na plataforma, submetendo suas credenciais 
+  para verificação pela comunidade da DAO.
+  Uma vez aprovadas, essas instituições podem emitir certificados diretamente na plataforma para seus alunos, de 
+  forma totalmente descentralizada.
+  
+  Estudantes:
+  Ao concluir um curso ou programa educacional, o aluno recebe um certificado NFT diretamente em sua carteira digital.
+  O certificado é único, imutável e contém informações como o nome do aluno, a instituição emissora, as disciplinas 
+  concluídas e a data de emissão.
+  
+  Verificação:
+  Empregadores, recrutadores e outras partes interessadas podem verificar facilmente a autenticidade de um certificado 
+  consultando o NFT na blockchain, acessando os dados completos e confiáveis da educação do candidato.
+
+02.Desafios e Oportunidades
+
+  Desafios:
+    -Adoção: Um dos principais desafios será convencer instituições tradicionais a adotarem a tecnologia blockchain 
+     para emissão de certificados.
+    -Custos de transação: Com a volatividade, o custo das transações em algumas blockchains pode ser alto, o que exigirá uma otimização 
+     constante e exploração de soluções.
+    -Privacidade de dados: Embora a blockchain ofereça transparência, é necessário proteger dados pessoais sensíveis dos alunos.
+    
+  Oportunidades:
+  -Escalabilidade global: A plataforma tem potencial para se expandir globalmente, trazendo uma solução inovadora 
+   para instituições de ensino em diferentes países.
+  -Parcerias estratégicas: A CertiDAO pode formar parcerias com grandes empresas de tecnologia, universidades de renome e 
+   plataformas de aprendizado online, ampliando seu alcance e influência.
+
+03.Roadmap do Projeto
+
+  Fase 1 - Desenvolvimento Inicial:
+  
+    Construção do MVP (Produto Mínimo Viável) da plataforma (protótipo).
+    Parcerias iniciais com algumas instituições educacionais piloto.
+    Lançamento da primeira versão do contrato inteligente para emissão de NFTs.
+
+  Fase 2 - Expansão:
+  
+    Integração com múltiplas blockchains para ampliar a interoperabilidade.
+    Lançamento do token de governança e início da governança descentralizada.
+    Expansão para instituições educacionais internacionais.
+
+  Fase 3 - Consolidação:
+  
+    Expansão da comunidade DAO com mais membros participando da governança.
+    Parcerias com governos e organizações educacionais globais para promover o reconhecimento oficial dos 
+    certificados emitidos pela CertiDAO.
+    Desenvolvimento de soluções adicionais, como NFTs para micro-certificações e badges de habilidades.
+
